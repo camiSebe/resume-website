@@ -231,6 +231,10 @@ body {
   display: none;
 }
 
+.resume_repositories ul li {
+  margin-bottom: 24px;
+}
+
 .repo-link {
   color: blue;
   text-decoration: none;
